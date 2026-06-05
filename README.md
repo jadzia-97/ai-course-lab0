@@ -15,3 +15,5 @@ This repository contains:
 - Google Colab exercises
 - Python notebooks
 - NumPy and Pandas exercises
+
+Repository created for AI Lab 0 coursework
